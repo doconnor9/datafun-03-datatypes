@@ -1,4 +1,10 @@
+Diandra O'Connor  1/26/23
+Module 3 Project
+domain: gymnastics
+
+
 # datafun-03-datatypes
+
 
 > Practice with Python data types, filter(), map(), and list comprehensions
 
