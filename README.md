@@ -3,10 +3,10 @@ Module 3 Project
 domain: gymnastics
 
 
+Practice with Python on numeric lists, string lists, tuples, set and dictionaries using built-in functions including filter() and map() as well as list comprehensions
+
+
 # datafun-03-datatypes
-
-
-> Practice with Python data types, filter(), map(), and list comprehensions
 
 
 ## Task 1 - Fork this Repo
