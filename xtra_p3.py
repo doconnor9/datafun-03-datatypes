@@ -9,7 +9,7 @@ text of Hamlet and Julius Caesar
 415
 
 >>> len(longwordset2)
-197
+197 
 
 >>> len(longwords)
 13
